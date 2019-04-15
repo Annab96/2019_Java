@@ -1,6 +1,6 @@
 package chap04;
 import java.util.Scanner;
-
+//실습문제 2번
 public class Grade {
 
 	private int math;

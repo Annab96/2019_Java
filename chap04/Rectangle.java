@@ -1,5 +1,5 @@
 package chap04;
-
+//실습문제 4번
 public class Rectangle {
 
 	int x;
